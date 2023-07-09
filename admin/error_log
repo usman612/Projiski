@@ -1,0 +1,239 @@
+[18-Jan-2018 18:20:24 Europe/Dublin] PHP Notice:  Undefined variable: title in /home2/b560788/public_html/hireirish.ie/development2/admin/header.php on line 10
+[18-Jan-2018 18:20:24 Europe/Dublin] PHP Notice:  Undefined variable: singlelogo in /home2/b560788/public_html/hireirish.ie/development2/admin/header.php on line 52
+[18-Jan-2018 18:20:24 Europe/Dublin] PHP Notice:  Undefined variable: pendingRequests in /home2/b560788/public_html/hireirish.ie/development2/admin/index.php on line 254
+[18-Jan-2018 18:20:24 Europe/Dublin] PHP Notice:  Undefined variable: pendingRequests in /home2/b560788/public_html/hireirish.ie/development2/admin/index.php on line 259
+[18-Jan-2018 18:20:24 Europe/Dublin] PHP Warning:  Invalid argument supplied for foreach() in /home2/b560788/public_html/hireirish.ie/development2/admin/index.php on line 259
+[18-Jan-2018 18:21:18 Europe/Dublin] PHP Notice:  Undefined variable: singlelogo in /home2/b560788/public_html/hireirish.ie/development2/admin/header.php on line 52
+[18-Jan-2018 18:21:18 Europe/Dublin] PHP Notice:  Undefined index: user_id in /home2/b560788/public_html/hireirish.ie/development2/admin/viewusers.php on line 174
+[18-Jan-2018 18:21:35 Europe/Dublin] PHP Notice:  Undefined variable: singlelogo in /home2/b560788/public_html/hireirish.ie/development2/admin/header.php on line 52
+[18-Jan-2018 18:21:35 Europe/Dublin] PHP Notice:  Undefined index: user_id in /home2/b560788/public_html/hireirish.ie/development2/admin/viewusers.php on line 174
+[18-Jan-2018 18:21:46 Europe/Dublin] PHP Notice:  Undefined variable: singlelogo in /home2/b560788/public_html/hireirish.ie/development2/admin/header.php on line 52
+[18-Jan-2018 18:21:46 Europe/Dublin] PHP Notice:  Undefined index: user_id in /home2/b560788/public_html/hireirish.ie/development2/admin/viewusers.php on line 174
+[18-Jan-2018 18:23:07 Europe/Dublin] PHP Notice:  Undefined variable: title in /home2/b560788/public_html/hireirish.ie/development2/admin/header.php on line 10
+[18-Jan-2018 18:23:07 Europe/Dublin] PHP Notice:  Undefined variable: singlelogo in /home2/b560788/public_html/hireirish.ie/development2/admin/header.php on line 52
+[18-Jan-2018 18:23:07 Europe/Dublin] PHP Notice:  Undefined variable: pendingRequests in /home2/b560788/public_html/hireirish.ie/development2/admin/index.php on line 254
+[18-Jan-2018 18:23:07 Europe/Dublin] PHP Notice:  Undefined variable: pendingRequests in /home2/b560788/public_html/hireirish.ie/development2/admin/index.php on line 259
+[18-Jan-2018 18:23:07 Europe/Dublin] PHP Warning:  Invalid argument supplied for foreach() in /home2/b560788/public_html/hireirish.ie/development2/admin/index.php on line 259
+[18-Jan-2018 18:23:12 Europe/Dublin] PHP Notice:  Undefined variable: singlelogo in /home2/b560788/public_html/hireirish.ie/development2/admin/header.php on line 52
+[18-Jan-2018 18:23:12 Europe/Dublin] PHP Notice:  Undefined variable: users in /home2/b560788/public_html/hireirish.ie/development2/admin/viewprojects.php on line 155
+[18-Jan-2018 18:23:37 Europe/Dublin] PHP Notice:  Undefined variable: title in /home2/b560788/public_html/hireirish.ie/development2/admin/header.php on line 10
+[18-Jan-2018 18:23:37 Europe/Dublin] PHP Notice:  Undefined variable: singlelogo in /home2/b560788/public_html/hireirish.ie/development2/admin/header.php on line 52
+[18-Jan-2018 18:23:37 Europe/Dublin] PHP Notice:  Undefined variable: pendingRequests in /home2/b560788/public_html/hireirish.ie/development2/admin/index.php on line 254
+[18-Jan-2018 18:23:37 Europe/Dublin] PHP Notice:  Undefined variable: pendingRequests in /home2/b560788/public_html/hireirish.ie/development2/admin/index.php on line 259
+[18-Jan-2018 18:23:37 Europe/Dublin] PHP Warning:  Invalid argument supplied for foreach() in /home2/b560788/public_html/hireirish.ie/development2/admin/index.php on line 259
+[18-Jan-2018 18:23:44 Europe/Dublin] PHP Notice:  Undefined variable: singlelogo in /home2/b560788/public_html/hireirish.ie/development2/admin/header.php on line 52
+[18-Jan-2018 18:23:44 Europe/Dublin] PHP Notice:  Undefined index: user_id in /home2/b560788/public_html/hireirish.ie/development2/admin/viewusers.php on line 174
+[18-Jan-2018 18:24:09 Europe/Dublin] PHP Warning:  Missing argument 3 for User::searchUsers(), called in /home2/b560788/public_html/hireirish.ie/development2/admin/viewusers.php on line 34 and defined in /home2/b560788/public_html/hireirish.ie/development2/classes/user.php on line 397
+[18-Jan-2018 18:24:09 Europe/Dublin] PHP Notice:  Undefined variable: project in /home2/b560788/public_html/hireirish.ie/development2/classes/user.php on line 402
+[18-Jan-2018 18:24:09 Europe/Dublin] PHP Notice:  Undefined variable: singlelogo in /home2/b560788/public_html/hireirish.ie/development2/admin/header.php on line 52
+[18-Jan-2018 18:24:09 Europe/Dublin] PHP Notice:  Undefined offset: 0 in /home2/b560788/public_html/hireirish.ie/development2/admin/viewusers.php on line 174
+[18-Jan-2018 18:24:16 Europe/Dublin] PHP Notice:  Undefined variable: singlelogo in /home2/b560788/public_html/hireirish.ie/development2/admin/header.php on line 52
+[18-Jan-2018 18:24:16 Europe/Dublin] PHP Notice:  Undefined variable: users in /home2/b560788/public_html/hireirish.ie/development2/admin/viewprojects.php on line 155
+[18-Jan-2018 18:24:20 Europe/Dublin] PHP Notice:  Undefined variable: singlelogo in /home2/b560788/public_html/hireirish.ie/development2/admin/header.php on line 52
+[18-Jan-2018 18:24:20 Europe/Dublin] PHP Notice:  Undefined index: user_id in /home2/b560788/public_html/hireirish.ie/development2/admin/viewusers.php on line 174
+[18-Jan-2018 18:24:22 Europe/Dublin] PHP Notice:  Undefined variable: title in /home2/b560788/public_html/hireirish.ie/development2/admin/header.php on line 10
+[18-Jan-2018 18:24:22 Europe/Dublin] PHP Notice:  Undefined variable: singlelogo in /home2/b560788/public_html/hireirish.ie/development2/admin/header.php on line 52
+[18-Jan-2018 18:24:22 Europe/Dublin] PHP Notice:  Undefined variable: pendingRequests in /home2/b560788/public_html/hireirish.ie/development2/admin/index.php on line 254
+[18-Jan-2018 18:24:22 Europe/Dublin] PHP Notice:  Undefined variable: pendingRequests in /home2/b560788/public_html/hireirish.ie/development2/admin/index.php on line 259
+[18-Jan-2018 18:24:22 Europe/Dublin] PHP Warning:  Invalid argument supplied for foreach() in /home2/b560788/public_html/hireirish.ie/development2/admin/index.php on line 259
+[18-Jan-2018 18:24:24 Europe/Dublin] PHP Notice:  Undefined variable: singlelogo in /home2/b560788/public_html/hireirish.ie/development2/admin/header.php on line 52
+[18-Jan-2018 18:24:24 Europe/Dublin] PHP Notice:  Undefined index: user_id in /home2/b560788/public_html/hireirish.ie/development2/admin/viewusers.php on line 174
+[18-Jan-2018 18:24:30 Europe/Dublin] PHP Notice:  Undefined variable: title in /home2/b560788/public_html/hireirish.ie/development2/admin/header.php on line 10
+[18-Jan-2018 18:24:30 Europe/Dublin] PHP Notice:  Undefined variable: singlelogo in /home2/b560788/public_html/hireirish.ie/development2/admin/header.php on line 52
+[18-Jan-2018 18:24:30 Europe/Dublin] PHP Notice:  Undefined variable: pendingRequests in /home2/b560788/public_html/hireirish.ie/development2/admin/index.php on line 254
+[18-Jan-2018 18:24:30 Europe/Dublin] PHP Notice:  Undefined variable: pendingRequests in /home2/b560788/public_html/hireirish.ie/development2/admin/index.php on line 259
+[18-Jan-2018 18:24:30 Europe/Dublin] PHP Warning:  Invalid argument supplied for foreach() in /home2/b560788/public_html/hireirish.ie/development2/admin/index.php on line 259
+[18-Jan-2018 18:24:31 Europe/Dublin] PHP Notice:  Undefined variable: singlelogo in /home2/b560788/public_html/hireirish.ie/development2/admin/header.php on line 52
+[18-Jan-2018 18:24:31 Europe/Dublin] PHP Notice:  Undefined index: user_id in /home2/b560788/public_html/hireirish.ie/development2/admin/viewusers.php on line 174
+[18-Jan-2018 18:24:56 Europe/Dublin] PHP Notice:  Undefined variable: singlelogo in /home2/b560788/public_html/hireirish.ie/development2/admin/header.php on line 52
+[18-Jan-2018 18:24:56 Europe/Dublin] PHP Notice:  Undefined variable: users in /home2/b560788/public_html/hireirish.ie/development2/admin/viewprojects.php on line 155
+[18-Jan-2018 18:25:01 Europe/Dublin] PHP Notice:  Undefined variable: singlelogo in /home2/b560788/public_html/hireirish.ie/development2/admin/header.php on line 52
+[18-Jan-2018 18:25:01 Europe/Dublin] PHP Notice:  Undefined index: user_id in /home2/b560788/public_html/hireirish.ie/development2/admin/viewusers.php on line 174
+[18-Jan-2018 18:25:06 Europe/Dublin] PHP Notice:  Undefined variable: singlelogo in /home2/b560788/public_html/hireirish.ie/development2/admin/header.php on line 52
+[18-Jan-2018 18:25:06 Europe/Dublin] PHP Notice:  Undefined variable: users in /home2/b560788/public_html/hireirish.ie/development2/admin/communication.php on line 127
+[18-Jan-2018 18:25:15 Europe/Dublin] PHP Notice:  Undefined variable: singlelogo in /home2/b560788/public_html/hireirish.ie/development2/admin/header.php on line 52
+[18-Jan-2018 18:25:15 Europe/Dublin] PHP Notice:  Undefined index: user_id in /home2/b560788/public_html/hireirish.ie/development2/admin/viewusers.php on line 174
+[18-Jan-2018 18:25:40 Europe/Dublin] PHP Notice:  Undefined variable: singlelogo in /home2/b560788/public_html/hireirish.ie/development2/admin/header.php on line 52
+[18-Jan-2018 18:25:40 Europe/Dublin] PHP Notice:  Undefined variable: users in /home2/b560788/public_html/hireirish.ie/development2/admin/viewprojects.php on line 155
+[18-Jan-2018 18:26:03 Europe/Dublin] PHP Notice:  Undefined variable: singlelogo in /home2/b560788/public_html/hireirish.ie/development2/admin/header.php on line 52
+[18-Jan-2018 18:26:03 Europe/Dublin] PHP Notice:  Uninitialized string offset: 0 in /home2/b560788/public_html/hireirish.ie/development2/admin/assignproject.php on line 146
+[18-Jan-2018 18:26:03 Europe/Dublin] PHP Warning:  Illegal string offset 'user_id' in /home2/b560788/public_html/hireirish.ie/development2/admin/assignproject.php on line 146
+[18-Jan-2018 18:26:03 Europe/Dublin] PHP Notice:  Uninitialized string offset: 0 in /home2/b560788/public_html/hireirish.ie/development2/admin/assignproject.php on line 146
+[18-Jan-2018 18:26:03 Europe/Dublin] PHP Notice:  Undefined variable: user in /home2/b560788/public_html/hireirish.ie/development2/admin/assignproject.php on line 327
+[18-Jan-2018 18:26:28 Europe/Dublin] PHP Notice:  Undefined variable: singlelogo in /home2/b560788/public_html/hireirish.ie/development2/admin/header.php on line 52
+[18-Jan-2018 18:26:28 Europe/Dublin] PHP Notice:  Undefined index: user_id in /home2/b560788/public_html/hireirish.ie/development2/admin/viewusers.php on line 174
+[18-Jan-2018 18:26:45 Europe/Dublin] PHP Notice:  Undefined variable: singlelogo in /home2/b560788/public_html/hireirish.ie/development2/admin/header.php on line 52
+[18-Jan-2018 18:26:45 Europe/Dublin] PHP Notice:  Undefined index: user_id in /home2/b560788/public_html/hireirish.ie/development2/admin/viewusers.php on line 174
+[18-Jan-2018 18:26:49 Europe/Dublin] PHP Notice:  Undefined variable: title in /home2/b560788/public_html/hireirish.ie/development2/admin/header.php on line 10
+[18-Jan-2018 18:26:49 Europe/Dublin] PHP Notice:  Undefined variable: singlelogo in /home2/b560788/public_html/hireirish.ie/development2/admin/header.php on line 52
+[18-Jan-2018 18:26:49 Europe/Dublin] PHP Notice:  Undefined variable: pendingRequests in /home2/b560788/public_html/hireirish.ie/development2/admin/index.php on line 254
+[18-Jan-2018 18:26:49 Europe/Dublin] PHP Notice:  Undefined variable: pendingRequests in /home2/b560788/public_html/hireirish.ie/development2/admin/index.php on line 259
+[18-Jan-2018 18:26:49 Europe/Dublin] PHP Warning:  Invalid argument supplied for foreach() in /home2/b560788/public_html/hireirish.ie/development2/admin/index.php on line 259
+[18-Jan-2018 18:26:55 Europe/Dublin] PHP Notice:  Undefined variable: singlelogo in /home2/b560788/public_html/hireirish.ie/development2/admin/header.php on line 52
+[18-Jan-2018 18:26:55 Europe/Dublin] PHP Notice:  Undefined index: user_id in /home2/b560788/public_html/hireirish.ie/development2/admin/viewusers.php on line 174
+[18-Jan-2018 18:27:00 Europe/Dublin] PHP Notice:  Undefined variable: singlelogo in /home2/b560788/public_html/hireirish.ie/development2/admin/header.php on line 52
+[18-Jan-2018 18:27:00 Europe/Dublin] PHP Notice:  Undefined index: user_id in /home2/b560788/public_html/hireirish.ie/development2/admin/viewusers.php on line 174
+[18-Jan-2018 18:27:12 Europe/Dublin] PHP Notice:  Undefined variable: singlelogo in /home2/b560788/public_html/hireirish.ie/development2/admin/header.php on line 52
+[18-Jan-2018 18:27:12 Europe/Dublin] PHP Notice:  Undefined index: user_id in /home2/b560788/public_html/hireirish.ie/development2/admin/viewusers.php on line 174
+[18-Jan-2018 18:27:25 Europe/Dublin] PHP Notice:  Undefined variable: title in /home2/b560788/public_html/hireirish.ie/development2/admin/header.php on line 10
+[18-Jan-2018 18:27:25 Europe/Dublin] PHP Notice:  Undefined variable: singlelogo in /home2/b560788/public_html/hireirish.ie/development2/admin/header.php on line 52
+[18-Jan-2018 18:27:25 Europe/Dublin] PHP Notice:  Undefined variable: pendingRequests in /home2/b560788/public_html/hireirish.ie/development2/admin/index.php on line 254
+[18-Jan-2018 18:27:25 Europe/Dublin] PHP Notice:  Undefined variable: pendingRequests in /home2/b560788/public_html/hireirish.ie/development2/admin/index.php on line 259
+[18-Jan-2018 18:27:25 Europe/Dublin] PHP Warning:  Invalid argument supplied for foreach() in /home2/b560788/public_html/hireirish.ie/development2/admin/index.php on line 259
+[18-Jan-2018 18:27:37 Europe/Dublin] PHP Notice:  Undefined variable: singlelogo in /home2/b560788/public_html/hireirish.ie/development2/admin/header.php on line 52
+[18-Jan-2018 18:27:37 Europe/Dublin] PHP Notice:  Undefined variable: users in /home2/b560788/public_html/hireirish.ie/development2/admin/viewprojects.php on line 155
+[18-Jan-2018 18:27:43 Europe/Dublin] PHP Notice:  Undefined variable: singlelogo in /home2/b560788/public_html/hireirish.ie/development2/admin/header.php on line 52
+[18-Jan-2018 18:27:43 Europe/Dublin] PHP Notice:  Undefined variable: users in /home2/b560788/public_html/hireirish.ie/development2/admin/viewprojects.php on line 155
+[18-Jan-2018 18:28:13 Europe/Dublin] PHP Notice:  Undefined variable: singlelogo in /home2/b560788/public_html/hireirish.ie/development2/admin/header.php on line 52
+[18-Jan-2018 18:28:13 Europe/Dublin] PHP Notice:  Undefined variable: chatid in /home2/b560788/public_html/hireirish.ie/development2/admin/adminprojectbasechat.php on line 115
+[18-Jan-2018 18:28:13 Europe/Dublin] PHP Notice:  Undefined variable: users in /home2/b560788/public_html/hireirish.ie/development2/admin/adminprojectbasechat.php on line 196
+[18-Jan-2018 18:28:42 Europe/Dublin] PHP Notice:  Undefined variable: singlelogo in /home2/b560788/public_html/hireirish.ie/development2/admin/header.php on line 52
+[18-Jan-2018 18:28:42 Europe/Dublin] PHP Notice:  Undefined variable: users in /home2/b560788/public_html/hireirish.ie/development2/admin/viewprojects.php on line 155
+[18-Jan-2018 18:28:49 Europe/Dublin] PHP Notice:  Undefined variable: singlelogo in /home2/b560788/public_html/hireirish.ie/development2/admin/header.php on line 52
+[18-Jan-2018 18:28:49 Europe/Dublin] PHP Notice:  Uninitialized string offset: 0 in /home2/b560788/public_html/hireirish.ie/development2/admin/assignproject.php on line 146
+[18-Jan-2018 18:28:49 Europe/Dublin] PHP Warning:  Illegal string offset 'user_id' in /home2/b560788/public_html/hireirish.ie/development2/admin/assignproject.php on line 146
+[18-Jan-2018 18:28:49 Europe/Dublin] PHP Notice:  Uninitialized string offset: 0 in /home2/b560788/public_html/hireirish.ie/development2/admin/assignproject.php on line 146
+[18-Jan-2018 18:28:49 Europe/Dublin] PHP Notice:  Undefined variable: user in /home2/b560788/public_html/hireirish.ie/development2/admin/assignproject.php on line 327
+[18-Jan-2018 18:28:56 Europe/Dublin] PHP Notice:  Undefined variable: singlelogo in /home2/b560788/public_html/hireirish.ie/development2/admin/header.php on line 52
+[18-Jan-2018 18:28:56 Europe/Dublin] PHP Notice:  Undefined variable: users in /home2/b560788/public_html/hireirish.ie/development2/admin/viewprojects.php on line 155
+[18-Jan-2018 18:28:59 Europe/Dublin] PHP Notice:  Undefined variable: singlelogo in /home2/b560788/public_html/hireirish.ie/development2/admin/header.php on line 52
+[18-Jan-2018 18:28:59 Europe/Dublin] PHP Notice:  Uninitialized string offset: 0 in /home2/b560788/public_html/hireirish.ie/development2/admin/assignproject.php on line 146
+[18-Jan-2018 18:28:59 Europe/Dublin] PHP Warning:  Illegal string offset 'user_id' in /home2/b560788/public_html/hireirish.ie/development2/admin/assignproject.php on line 146
+[18-Jan-2018 18:28:59 Europe/Dublin] PHP Notice:  Uninitialized string offset: 0 in /home2/b560788/public_html/hireirish.ie/development2/admin/assignproject.php on line 146
+[18-Jan-2018 18:28:59 Europe/Dublin] PHP Notice:  Undefined variable: user in /home2/b560788/public_html/hireirish.ie/development2/admin/assignproject.php on line 327
+[18-Jan-2018 18:29:13 Europe/Dublin] PHP Notice:  Undefined variable: singlelogo in /home2/b560788/public_html/hireirish.ie/development2/admin/header.php on line 52
+[18-Jan-2018 18:29:13 Europe/Dublin] PHP Notice:  Undefined variable: users in /home2/b560788/public_html/hireirish.ie/development2/admin/viewprojects.php on line 155
+[18-Jan-2018 18:29:15 Europe/Dublin] PHP Notice:  Undefined variable: singlelogo in /home2/b560788/public_html/hireirish.ie/development2/admin/header.php on line 52
+[18-Jan-2018 18:29:15 Europe/Dublin] PHP Notice:  Uninitialized string offset: 0 in /home2/b560788/public_html/hireirish.ie/development2/admin/assignproject.php on line 146
+[18-Jan-2018 18:29:15 Europe/Dublin] PHP Warning:  Illegal string offset 'user_id' in /home2/b560788/public_html/hireirish.ie/development2/admin/assignproject.php on line 146
+[18-Jan-2018 18:29:15 Europe/Dublin] PHP Notice:  Uninitialized string offset: 0 in /home2/b560788/public_html/hireirish.ie/development2/admin/assignproject.php on line 146
+[18-Jan-2018 18:29:15 Europe/Dublin] PHP Notice:  Undefined variable: user in /home2/b560788/public_html/hireirish.ie/development2/admin/assignproject.php on line 327
+[18-Jan-2018 18:29:24 Europe/Dublin] PHP Notice:  Undefined variable: singlelogo in /home2/b560788/public_html/hireirish.ie/development2/admin/header.php on line 52
+[18-Jan-2018 18:29:24 Europe/Dublin] PHP Notice:  Undefined index: user_id in /home2/b560788/public_html/hireirish.ie/development2/admin/assignproject.php on line 146
+[18-Jan-2018 18:30:02 Europe/Dublin] PHP Notice:  Undefined variable: singlelogo in /home2/b560788/public_html/hireirish.ie/development2/admin/header.php on line 52
+[18-Jan-2018 18:30:02 Europe/Dublin] PHP Notice:  Undefined variable: chatid in /home2/b560788/public_html/hireirish.ie/development2/admin/adminprojectbasechat.php on line 115
+[18-Jan-2018 18:30:02 Europe/Dublin] PHP Notice:  Undefined variable: users in /home2/b560788/public_html/hireirish.ie/development2/admin/adminprojectbasechat.php on line 196
+[18-Jan-2018 18:30:46 Europe/Dublin] PHP Notice:  Undefined variable: title in /home2/b560788/public_html/hireirish.ie/development2/admin/header.php on line 10
+[18-Jan-2018 18:30:46 Europe/Dublin] PHP Notice:  Undefined variable: singlelogo in /home2/b560788/public_html/hireirish.ie/development2/admin/header.php on line 52
+[18-Jan-2018 18:30:46 Europe/Dublin] PHP Notice:  Undefined variable: pendingRequests in /home2/b560788/public_html/hireirish.ie/development2/admin/index.php on line 254
+[18-Jan-2018 18:30:46 Europe/Dublin] PHP Notice:  Undefined variable: pendingRequests in /home2/b560788/public_html/hireirish.ie/development2/admin/index.php on line 259
+[18-Jan-2018 18:30:46 Europe/Dublin] PHP Warning:  Invalid argument supplied for foreach() in /home2/b560788/public_html/hireirish.ie/development2/admin/index.php on line 259
+[18-Jan-2018 18:31:17 Europe/Dublin] PHP Notice:  Undefined variable: singlelogo in /home2/b560788/public_html/hireirish.ie/development2/admin/header.php on line 52
+[18-Jan-2018 18:31:17 Europe/Dublin] PHP Notice:  Undefined variable: users in /home2/b560788/public_html/hireirish.ie/development2/admin/viewprojects.php on line 155
+[18-Jan-2018 18:31:54 Europe/Dublin] PHP Notice:  Undefined variable: singlelogo in /home2/b560788/public_html/hireirish.ie/development2/admin/header.php on line 52
+[18-Jan-2018 18:31:54 Europe/Dublin] PHP Notice:  Undefined variable: users in /home2/b560788/public_html/hireirish.ie/development2/admin/viewprojects.php on line 155
+[18-Jan-2018 18:32:02 Europe/Dublin] PHP Notice:  Undefined variable: singlelogo in /home2/b560788/public_html/hireirish.ie/development2/admin/header.php on line 52
+[18-Jan-2018 18:32:02 Europe/Dublin] PHP Notice:  Uninitialized string offset: 0 in /home2/b560788/public_html/hireirish.ie/development2/admin/assignproject.php on line 146
+[18-Jan-2018 18:32:02 Europe/Dublin] PHP Warning:  Illegal string offset 'user_id' in /home2/b560788/public_html/hireirish.ie/development2/admin/assignproject.php on line 146
+[18-Jan-2018 18:32:02 Europe/Dublin] PHP Notice:  Uninitialized string offset: 0 in /home2/b560788/public_html/hireirish.ie/development2/admin/assignproject.php on line 146
+[18-Jan-2018 18:32:02 Europe/Dublin] PHP Notice:  Undefined variable: user in /home2/b560788/public_html/hireirish.ie/development2/admin/assignproject.php on line 327
+[18-Jan-2018 18:32:04 Europe/Dublin] PHP Notice:  Undefined variable: singlelogo in /home2/b560788/public_html/hireirish.ie/development2/admin/header.php on line 52
+[18-Jan-2018 18:32:04 Europe/Dublin] PHP Notice:  Undefined index: user_id in /home2/b560788/public_html/hireirish.ie/development2/admin/viewusers.php on line 174
+[18-Jan-2018 18:32:08 Europe/Dublin] PHP Notice:  Undefined variable: singlelogo in /home2/b560788/public_html/hireirish.ie/development2/admin/header.php on line 52
+[18-Jan-2018 18:32:08 Europe/Dublin] PHP Notice:  Undefined variable: users in /home2/b560788/public_html/hireirish.ie/development2/admin/viewprojects.php on line 155
+[18-Jan-2018 18:32:12 Europe/Dublin] PHP Notice:  Undefined variable: singlelogo in /home2/b560788/public_html/hireirish.ie/development2/admin/header.php on line 52
+[18-Jan-2018 18:32:12 Europe/Dublin] PHP Notice:  Undefined variable: users in /home2/b560788/public_html/hireirish.ie/development2/admin/singleproject.php on line 129
+[18-Jan-2018 18:32:28 Europe/Dublin] PHP Notice:  Undefined variable: singlelogo in /home2/b560788/public_html/hireirish.ie/development2/admin/header.php on line 52
+[18-Jan-2018 18:32:28 Europe/Dublin] PHP Notice:  Undefined variable: users in /home2/b560788/public_html/hireirish.ie/development2/admin/viewprojects.php on line 155
+[18-Jan-2018 18:32:30 Europe/Dublin] PHP Notice:  Undefined variable: singlelogo in /home2/b560788/public_html/hireirish.ie/development2/admin/header.php on line 52
+[18-Jan-2018 18:32:30 Europe/Dublin] PHP Notice:  Undefined variable: chatid in /home2/b560788/public_html/hireirish.ie/development2/admin/adminprojectbasechat.php on line 115
+[18-Jan-2018 18:32:30 Europe/Dublin] PHP Notice:  Undefined variable: users in /home2/b560788/public_html/hireirish.ie/development2/admin/adminprojectbasechat.php on line 196
+[18-Jan-2018 18:32:40 Europe/Dublin] PHP Notice:  Undefined variable: singlelogo in /home2/b560788/public_html/hireirish.ie/development2/admin/header.php on line 52
+[18-Jan-2018 18:32:40 Europe/Dublin] PHP Notice:  Undefined variable: users in /home2/b560788/public_html/hireirish.ie/development2/admin/viewprojects.php on line 155
+[18-Jan-2018 18:32:43 Europe/Dublin] PHP Notice:  Undefined variable: singlelogo in /home2/b560788/public_html/hireirish.ie/development2/admin/header.php on line 52
+[18-Jan-2018 18:32:43 Europe/Dublin] PHP Notice:  Undefined variable: users in /home2/b560788/public_html/hireirish.ie/development2/admin/viewprojects.php on line 155
+[18-Jan-2018 18:32:46 Europe/Dublin] PHP Notice:  Undefined variable: singlelogo in /home2/b560788/public_html/hireirish.ie/development2/admin/header.php on line 52
+[18-Jan-2018 18:32:46 Europe/Dublin] PHP Notice:  Uninitialized string offset: 0 in /home2/b560788/public_html/hireirish.ie/development2/admin/assignproject.php on line 146
+[18-Jan-2018 18:32:46 Europe/Dublin] PHP Warning:  Illegal string offset 'user_id' in /home2/b560788/public_html/hireirish.ie/development2/admin/assignproject.php on line 146
+[18-Jan-2018 18:32:46 Europe/Dublin] PHP Notice:  Uninitialized string offset: 0 in /home2/b560788/public_html/hireirish.ie/development2/admin/assignproject.php on line 146
+[18-Jan-2018 18:32:46 Europe/Dublin] PHP Notice:  Undefined variable: user in /home2/b560788/public_html/hireirish.ie/development2/admin/assignproject.php on line 327
+[18-Jan-2018 18:32:50 Europe/Dublin] PHP Notice:  Undefined variable: singlelogo in /home2/b560788/public_html/hireirish.ie/development2/admin/header.php on line 52
+[18-Jan-2018 18:32:50 Europe/Dublin] PHP Notice:  Undefined variable: chatid in /home2/b560788/public_html/hireirish.ie/development2/admin/adminprojectbasechat.php on line 115
+[18-Jan-2018 18:32:50 Europe/Dublin] PHP Notice:  Undefined variable: users in /home2/b560788/public_html/hireirish.ie/development2/admin/adminprojectbasechat.php on line 196
+[18-Jan-2018 18:32:52 Europe/Dublin] PHP Notice:  Undefined variable: singlelogo in /home2/b560788/public_html/hireirish.ie/development2/admin/header.php on line 52
+[18-Jan-2018 18:32:52 Europe/Dublin] PHP Notice:  Undefined index: user_id in /home2/b560788/public_html/hireirish.ie/development2/admin/assignproject.php on line 146
+[18-Jan-2018 18:34:37 Europe/Dublin] PHP Notice:  Undefined variable: singlelogo in /home2/b560788/public_html/hireirish.ie/development2/admin/header.php on line 52
+[18-Jan-2018 18:34:37 Europe/Dublin] PHP Notice:  Undefined variable: users in /home2/b560788/public_html/hireirish.ie/development2/admin/viewprojects.php on line 155
+[18-Jan-2018 18:34:41 Europe/Dublin] PHP Notice:  Undefined variable: singlelogo in /home2/b560788/public_html/hireirish.ie/development2/admin/header.php on line 52
+[18-Jan-2018 18:34:41 Europe/Dublin] PHP Notice:  Undefined variable: chatid in /home2/b560788/public_html/hireirish.ie/development2/admin/adminprojectbasechat.php on line 115
+[18-Jan-2018 18:34:41 Europe/Dublin] PHP Notice:  Undefined variable: users in /home2/b560788/public_html/hireirish.ie/development2/admin/adminprojectbasechat.php on line 196
+[18-Jan-2018 18:34:46 Europe/Dublin] PHP Notice:  Undefined variable: singlelogo in /home2/b560788/public_html/hireirish.ie/development2/admin/header.php on line 52
+[18-Jan-2018 18:34:46 Europe/Dublin] PHP Notice:  Undefined variable: chatid in /home2/b560788/public_html/hireirish.ie/development2/admin/adminprojectbasechat.php on line 115
+[18-Jan-2018 18:34:46 Europe/Dublin] PHP Notice:  Undefined variable: users in /home2/b560788/public_html/hireirish.ie/development2/admin/adminprojectbasechat.php on line 196
+[18-Jan-2018 18:34:53 Europe/Dublin] PHP Notice:  Undefined variable: singlelogo in /home2/b560788/public_html/hireirish.ie/development2/admin/header.php on line 52
+[18-Jan-2018 18:34:53 Europe/Dublin] PHP Notice:  Undefined variable: users in /home2/b560788/public_html/hireirish.ie/development2/admin/singleinvoice.php on line 100
+[18-Jan-2018 18:35:46 Europe/Dublin] PHP Notice:  Undefined variable: singlelogo in /home2/b560788/public_html/hireirish.ie/development2/admin/header.php on line 52
+[18-Jan-2018 18:35:46 Europe/Dublin] PHP Notice:  Undefined variable: singleinvoice in /home2/b560788/public_html/hireirish.ie/development2/admin/singleinvoice.php on line 75
+[18-Jan-2018 18:35:46 Europe/Dublin] PHP Notice:  Undefined index: userid in /home2/b560788/public_html/hireirish.ie/development2/admin/singleinvoice.php on line 75
+[18-Jan-2018 18:35:46 Europe/Dublin] PHP Notice:  Undefined index: projectid in /home2/b560788/public_html/hireirish.ie/development2/admin/singleinvoice.php on line 75
+[18-Jan-2018 18:35:46 Europe/Dublin] PHP Notice:  Undefined variable: singleinvoice in /home2/b560788/public_html/hireirish.ie/development2/admin/singleinvoice.php on line 76
+[18-Jan-2018 18:35:46 Europe/Dublin] PHP Notice:  Undefined index: userid in /home2/b560788/public_html/hireirish.ie/development2/admin/singleinvoice.php on line 76
+[18-Jan-2018 18:35:46 Europe/Dublin] PHP Notice:  Undefined index: projectid in /home2/b560788/public_html/hireirish.ie/development2/admin/singleinvoice.php on line 76
+[18-Jan-2018 18:35:46 Europe/Dublin] PHP Notice:  Undefined variable: users in /home2/b560788/public_html/hireirish.ie/development2/admin/singleinvoice.php on line 100
+[18-Jan-2018 18:35:46 Europe/Dublin] PHP Notice:  Undefined variable: singleinvoice in /home2/b560788/public_html/hireirish.ie/development2/admin/singleinvoice.php on line 119
+[18-Jan-2018 18:35:46 Europe/Dublin] PHP Notice:  Undefined variable: singleinvoice in /home2/b560788/public_html/hireirish.ie/development2/admin/singleinvoice.php on line 119
+[18-Jan-2018 18:35:46 Europe/Dublin] PHP Notice:  Undefined variable: singleinvoice in /home2/b560788/public_html/hireirish.ie/development2/admin/singleinvoice.php on line 121
+[18-Jan-2018 18:35:46 Europe/Dublin] PHP Notice:  Undefined variable: singleinvoice in /home2/b560788/public_html/hireirish.ie/development2/admin/singleinvoice.php on line 123
+[18-Jan-2018 18:35:46 Europe/Dublin] PHP Notice:  Undefined variable: singlelogo in /home2/b560788/public_html/hireirish.ie/development2/admin/header.php on line 52
+[18-Jan-2018 18:35:46 Europe/Dublin] PHP Notice:  Undefined variable: chatid in /home2/b560788/public_html/hireirish.ie/development2/admin/adminprojectbasechat.php on line 115
+[18-Jan-2018 18:35:46 Europe/Dublin] PHP Notice:  Undefined variable: users in /home2/b560788/public_html/hireirish.ie/development2/admin/adminprojectbasechat.php on line 196
+[18-Jan-2018 18:35:54 Europe/Dublin] PHP Notice:  Undefined variable: singlelogo in /home2/b560788/public_html/hireirish.ie/development2/admin/header.php on line 52
+[18-Jan-2018 18:35:54 Europe/Dublin] PHP Notice:  Undefined variable: users in /home2/b560788/public_html/hireirish.ie/development2/admin/viewprojects.php on line 155
+[18-Jan-2018 18:35:56 Europe/Dublin] PHP Notice:  Undefined variable: singlelogo in /home2/b560788/public_html/hireirish.ie/development2/admin/header.php on line 52
+[18-Jan-2018 18:35:56 Europe/Dublin] PHP Notice:  Undefined variable: chatid in /home2/b560788/public_html/hireirish.ie/development2/admin/adminprojectbasechat.php on line 115
+[18-Jan-2018 18:35:56 Europe/Dublin] PHP Notice:  Undefined variable: users in /home2/b560788/public_html/hireirish.ie/development2/admin/adminprojectbasechat.php on line 196
+[18-Jan-2018 18:35:58 Europe/Dublin] PHP Notice:  Undefined variable: singlelogo in /home2/b560788/public_html/hireirish.ie/development2/admin/header.php on line 52
+[18-Jan-2018 18:35:58 Europe/Dublin] PHP Notice:  Undefined variable: chatid in /home2/b560788/public_html/hireirish.ie/development2/admin/adminprojectbasechat.php on line 115
+[18-Jan-2018 18:35:58 Europe/Dublin] PHP Notice:  Undefined variable: users in /home2/b560788/public_html/hireirish.ie/development2/admin/adminprojectbasechat.php on line 196
+[18-Jan-2018 18:36:03 Europe/Dublin] PHP Notice:  Undefined variable: singlelogo in /home2/b560788/public_html/hireirish.ie/development2/admin/header.php on line 52
+[18-Jan-2018 18:36:03 Europe/Dublin] PHP Notice:  Undefined variable: chatid in /home2/b560788/public_html/hireirish.ie/development2/admin/adminprojectbasechat.php on line 115
+[18-Jan-2018 18:36:03 Europe/Dublin] PHP Notice:  Undefined variable: users in /home2/b560788/public_html/hireirish.ie/development2/admin/adminprojectbasechat.php on line 196
+[18-Jan-2018 18:36:06 Europe/Dublin] PHP Notice:  Undefined variable: singlelogo in /home2/b560788/public_html/hireirish.ie/development2/admin/header.php on line 52
+[18-Jan-2018 18:36:06 Europe/Dublin] PHP Notice:  Undefined variable: chatid in /home2/b560788/public_html/hireirish.ie/development2/admin/adminprojectbasechat.php on line 115
+[18-Jan-2018 18:36:06 Europe/Dublin] PHP Notice:  Undefined variable: users in /home2/b560788/public_html/hireirish.ie/development2/admin/adminprojectbasechat.php on line 196
+[18-Jan-2018 18:36:07 Europe/Dublin] PHP Notice:  Undefined variable: singlelogo in /home2/b560788/public_html/hireirish.ie/development2/admin/header.php on line 52
+[18-Jan-2018 18:36:07 Europe/Dublin] PHP Notice:  Undefined variable: chatid in /home2/b560788/public_html/hireirish.ie/development2/admin/adminprojectbasechat.php on line 115
+[18-Jan-2018 18:36:07 Europe/Dublin] PHP Notice:  Undefined variable: users in /home2/b560788/public_html/hireirish.ie/development2/admin/adminprojectbasechat.php on line 196
+[18-Jan-2018 18:36:10 Europe/Dublin] PHP Notice:  Undefined variable: singlelogo in /home2/b560788/public_html/hireirish.ie/development2/admin/header.php on line 52
+[18-Jan-2018 18:36:10 Europe/Dublin] PHP Notice:  Undefined variable: chatid in /home2/b560788/public_html/hireirish.ie/development2/admin/adminprojectbasechat.php on line 115
+[18-Jan-2018 18:36:10 Europe/Dublin] PHP Notice:  Undefined variable: users in /home2/b560788/public_html/hireirish.ie/development2/admin/adminprojectbasechat.php on line 196
+[18-Jan-2018 18:39:08 Europe/Dublin] PHP Notice:  Undefined variable: singlelogo in /home2/b560788/public_html/hireirish.ie/development2/admin/header.php on line 52
+[18-Jan-2018 18:39:08 Europe/Dublin] PHP Notice:  Undefined index: user_id in /home2/b560788/public_html/hireirish.ie/development2/admin/viewusers.php on line 174
+[18-Jan-2018 18:39:45 Europe/Dublin] PHP Notice:  Undefined variable: title in /home2/b560788/public_html/hireirish.ie/development2/admin/header.php on line 10
+[18-Jan-2018 18:39:45 Europe/Dublin] PHP Notice:  Undefined variable: singlelogo in /home2/b560788/public_html/hireirish.ie/development2/admin/header.php on line 52
+[18-Jan-2018 18:39:45 Europe/Dublin] PHP Notice:  Undefined variable: pendingRequests in /home2/b560788/public_html/hireirish.ie/development2/admin/index.php on line 254
+[18-Jan-2018 18:39:45 Europe/Dublin] PHP Notice:  Undefined variable: pendingRequests in /home2/b560788/public_html/hireirish.ie/development2/admin/index.php on line 259
+[18-Jan-2018 18:39:45 Europe/Dublin] PHP Warning:  Invalid argument supplied for foreach() in /home2/b560788/public_html/hireirish.ie/development2/admin/index.php on line 259
+[18-Jan-2018 18:41:08 Europe/Dublin] PHP Notice:  Undefined variable: title in /home2/b560788/public_html/hireirish.ie/development2/admin/header.php on line 10
+[18-Jan-2018 18:41:08 Europe/Dublin] PHP Notice:  Undefined variable: singlelogo in /home2/b560788/public_html/hireirish.ie/development2/admin/header.php on line 52
+[18-Jan-2018 18:41:08 Europe/Dublin] PHP Notice:  Undefined variable: pendingRequests in /home2/b560788/public_html/hireirish.ie/development2/admin/index.php on line 254
+[18-Jan-2018 18:41:08 Europe/Dublin] PHP Notice:  Undefined variable: pendingRequests in /home2/b560788/public_html/hireirish.ie/development2/admin/index.php on line 259
+[18-Jan-2018 18:41:08 Europe/Dublin] PHP Warning:  Invalid argument supplied for foreach() in /home2/b560788/public_html/hireirish.ie/development2/admin/index.php on line 259
+[18-Jan-2018 18:41:16 Europe/Dublin] PHP Notice:  Undefined variable: singlelogo in /home2/b560788/public_html/hireirish.ie/development2/admin/header.php on line 52
+[18-Jan-2018 18:41:16 Europe/Dublin] PHP Notice:  Undefined index: user_id in /home2/b560788/public_html/hireirish.ie/development2/admin/viewusers.php on line 174
+[18-Jan-2018 18:41:17 Europe/Dublin] PHP Notice:  Undefined variable: title in /home2/b560788/public_html/hireirish.ie/development2/admin/header.php on line 10
+[18-Jan-2018 18:41:17 Europe/Dublin] PHP Notice:  Undefined variable: singlelogo in /home2/b560788/public_html/hireirish.ie/development2/admin/header.php on line 52
+[18-Jan-2018 18:41:17 Europe/Dublin] PHP Notice:  Undefined variable: pendingRequests in /home2/b560788/public_html/hireirish.ie/development2/admin/index.php on line 254
+[18-Jan-2018 18:41:17 Europe/Dublin] PHP Notice:  Undefined variable: pendingRequests in /home2/b560788/public_html/hireirish.ie/development2/admin/index.php on line 259
+[18-Jan-2018 18:41:17 Europe/Dublin] PHP Warning:  Invalid argument supplied for foreach() in /home2/b560788/public_html/hireirish.ie/development2/admin/index.php on line 259
+[18-Jan-2018 18:41:22 Europe/Dublin] PHP Notice:  Undefined variable: title in /home2/b560788/public_html/hireirish.ie/development2/admin/header.php on line 10
+[18-Jan-2018 18:41:22 Europe/Dublin] PHP Notice:  Undefined variable: singlelogo in /home2/b560788/public_html/hireirish.ie/development2/admin/header.php on line 52
+[18-Jan-2018 18:41:22 Europe/Dublin] PHP Notice:  Undefined variable: pendingRequests in /home2/b560788/public_html/hireirish.ie/development2/admin/index.php on line 254
+[18-Jan-2018 18:41:22 Europe/Dublin] PHP Notice:  Undefined variable: pendingRequests in /home2/b560788/public_html/hireirish.ie/development2/admin/index.php on line 259
+[18-Jan-2018 18:41:22 Europe/Dublin] PHP Warning:  Invalid argument supplied for foreach() in /home2/b560788/public_html/hireirish.ie/development2/admin/index.php on line 259
+[18-Jan-2018 18:41:22 Europe/Dublin] PHP Notice:  Undefined variable: title in /home2/b560788/public_html/hireirish.ie/development2/admin/header.php on line 10
+[18-Jan-2018 18:41:22 Europe/Dublin] PHP Notice:  Undefined variable: singlelogo in /home2/b560788/public_html/hireirish.ie/development2/admin/header.php on line 52
+[18-Jan-2018 18:41:22 Europe/Dublin] PHP Notice:  Undefined variable: pendingRequests in /home2/b560788/public_html/hireirish.ie/development2/admin/index.php on line 254
+[18-Jan-2018 18:41:22 Europe/Dublin] PHP Notice:  Undefined variable: pendingRequests in /home2/b560788/public_html/hireirish.ie/development2/admin/index.php on line 259
+[18-Jan-2018 18:41:22 Europe/Dublin] PHP Warning:  Invalid argument supplied for foreach() in /home2/b560788/public_html/hireirish.ie/development2/admin/index.php on line 259
+[18-Jan-2018 18:41:35 Europe/Dublin] PHP Notice:  Undefined variable: title in /home2/b560788/public_html/hireirish.ie/development2/admin/header.php on line 10
+[18-Jan-2018 18:41:35 Europe/Dublin] PHP Notice:  Undefined variable: singlelogo in /home2/b560788/public_html/hireirish.ie/development2/admin/header.php on line 52
+[18-Jan-2018 18:41:35 Europe/Dublin] PHP Notice:  Undefined variable: pendingRequests in /home2/b560788/public_html/hireirish.ie/development2/admin/index.php on line 254
+[18-Jan-2018 18:41:35 Europe/Dublin] PHP Notice:  Undefined variable: pendingRequests in /home2/b560788/public_html/hireirish.ie/development2/admin/index.php on line 259
+[18-Jan-2018 18:41:35 Europe/Dublin] PHP Warning:  Invalid argument supplied for foreach() in /home2/b560788/public_html/hireirish.ie/development2/admin/index.php on line 259
+[18-Jan-2018 18:41:37 Europe/Dublin] PHP Notice:  Undefined variable: singlelogo in /home2/b560788/public_html/hireirish.ie/development2/admin/header.php on line 52
+[18-Jan-2018 18:41:37 Europe/Dublin] PHP Notice:  Undefined variable: users in /home2/b560788/public_html/hireirish.ie/development2/admin/viewprojects.php on line 155
+[18-Jan-2018 18:41:59 Europe/Dublin] PHP Notice:  Undefined variable: singlelogo in /home2/b560788/public_html/hireirish.ie/development2/admin/header.php on line 52
+[18-Jan-2018 18:41:59 Europe/Dublin] PHP Notice:  Undefined index: user_id in /home2/b560788/public_html/hireirish.ie/development2/admin/viewusers.php on line 174
+[18-Jan-2018 18:42:06 Europe/Dublin] PHP Notice:  Undefined variable: singlelogo in /home2/b560788/public_html/hireirish.ie/development2/admin/header.php on line 52
+[18-Jan-2018 18:42:06 Europe/Dublin] PHP Notice:  Undefined index: user_id in /home2/b560788/public_html/hireirish.ie/development2/admin/viewusers.php on line 174

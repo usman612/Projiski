@@ -1,0 +1,3 @@
+[18-Jan-2018 18:09:35 Europe/Dublin] PHP Notice:  A session had already been started - ignoring session_start() in /home2/b560788/public_html/hireirish.ie/development2/classes/user.php on line 53
+[18-Jan-2018 18:24:03 Europe/Dublin] PHP Notice:  Undefined index: userid in /home2/b560788/public_html/hireirish.ie/development2/postadminproject.php on line 31
+[20-Jan-2018 15:39:02 Europe/Dublin] PHP Notice:  A session had already been started - ignoring session_start() in /home2/b560788/public_html/hireirish.ie/development2/classes/user.php on line 53
